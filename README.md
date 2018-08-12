@@ -1,2 +1,2 @@
-# Shiny-Medial-Axis
-An Shiny app built to compute Medial axis with doParallel
+# Medial-Axis Package
+An R package built to compute Medial axis with support for multi-polygons

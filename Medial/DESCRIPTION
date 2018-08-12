@@ -1,0 +1,10 @@
+Package: Medial
+Title: Computes Medial Axis (Voronoi Skeletons) using Delaunay Triangulations
+Version: 0.0.0.9000
+Authors@R: person("Raghavendra Bhargava", "Kotapalli", email = "kobhargava@gmail.com", role = c("aut", "cre"))
+Description: This function computes the medial axis for the input polygon using the Delaunay Triangulation algorithm defined by Lee and Schachter (1980).The medial axis is computed by computing the triangulations of a polygon using the package Deldir().
+Depends: R (>= 3.4.3)
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
